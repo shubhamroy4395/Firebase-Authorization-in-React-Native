@@ -1,1 +1,2 @@
 # Firebase-Authorization-in-React-Native
+In this simple react native application we create a simple login page where we enter our credentials to be authenticated. For the purposes of authentication we use Firebase. If the credentials i.e Email id and password match the user is logged in and we show him a dummy page and if the particular set of credentials do not exist we create an account with the given email and password.
